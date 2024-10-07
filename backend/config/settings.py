@@ -34,6 +34,8 @@ DEFAULT_APPS = [
 
 CUSTOM_APPS = [
     "user",
+    "question",
+    "answer",
 ]
 
 INSTALLED_APPS = THIRD_PARTY_APPS + DEFAULT_APPS + CUSTOM_APPS
